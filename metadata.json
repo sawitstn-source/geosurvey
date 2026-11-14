@@ -1,0 +1,6 @@
+{
+  "name": "GeoSurvei",
+  "description": "Aplikasi pemetaan spasial dan survei lapangan offline (GeoJSON, KML, GPX, CSV, MBTiles, dan peta raster georeferensi) dengan pelacakan GPS, pengukuran jarak/luas, dan ekspor data.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

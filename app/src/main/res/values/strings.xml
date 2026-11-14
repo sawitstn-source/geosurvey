@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GeoSurvei</string>
+    <string name="nav_map">Peta</string>
+    <string name="nav_layers">Layer</string>
+    <string name="nav_survey">Survei</string>
+    <string name="nav_tools">Alat</string>
+    <string name="cd_center_gps">Pusatkan ke lokasi GPS</string>
+    <string name="cd_zoom_in">Perbesar peta</string>
+    <string name="cd_zoom_out">Perkecil peta</string>
+    <string name="cd_add_waypoint">Tambah titik survei</string>
+    <string name="cd_record_track">Rekam jejak GPS</string>
+    <string name="cd_measure">Ukur jarak dan luas</string>
+    <string name="cd_compass_north">Arahkan peta ke utara</string>
+    <string name="cd_import_layer">Impor data spasial</string>
+</resources>
